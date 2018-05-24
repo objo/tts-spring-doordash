@@ -5,5 +5,3 @@ class Customer
     @address = address
   end
 end
-
-@joe = Customer.new("Joe", @address_2) 

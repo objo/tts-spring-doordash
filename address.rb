@@ -7,17 +7,3 @@ class Address
     @zip = zip
   end
 end
-
-@address_1 = Address.new(
-  "123 Main Street",
-  "Westerville",
-  "OH",
-  "43081"
-)
-
-@address_2 = Address.new(
-  "122 Michael Ave",
-  "Westerville",
-  "OH",
-  "43081"
-)
